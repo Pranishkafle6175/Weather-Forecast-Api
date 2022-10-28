@@ -1,0 +1,7 @@
+com.example.jsonconverter.test.app-androidTest-0 C:\Users\test\AndroidStudioProjects\JSONConverter\app\build\generated\res\resValues\androidTest\debug
+com.example.jsonconverter.test.app-androidTest-1 C:\Users\test\AndroidStudioProjects\JSONConverter\app\build\generated\res\rs\androidTest\debug
+com.example.jsonconverter.test.app-mergeDebugAndroidTestResources-2 C:\Users\test\AndroidStudioProjects\JSONConverter\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.jsonconverter.test.app-mergeDebugAndroidTestResources-3 C:\Users\test\AndroidStudioProjects\JSONConverter\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.jsonconverter.test.app-merged_res-4 C:\Users\test\AndroidStudioProjects\JSONConverter\app\build\intermediates\merged_res\debugAndroidTest
+com.example.jsonconverter.test.app-androidTest-5 C:\Users\test\AndroidStudioProjects\JSONConverter\app\src\androidTest\res
+com.example.jsonconverter.test.app-androidTestDebug-6 C:\Users\test\AndroidStudioProjects\JSONConverter\app\src\androidTestDebug\res

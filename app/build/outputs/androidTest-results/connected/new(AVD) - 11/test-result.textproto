@@ -1,0 +1,68 @@
+# 2022-10-19T16:14:04.306Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.example.jsonconverter"
+    test_method: "useAppContext"
+    start_time {
+      seconds: 1666196040
+      nanos: 435000000
+    }
+    end_time {
+      seconds: 1666196040
+      nanos: 658000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\test\\AndroidStudioProjects\\JSONConverter\\app\\build\\outputs\\androidTest-results\\connected\\new(AVD) - 11\\logcat-com.example.jsonconverter.ExampleInstrumentedTest-useAppContext.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\test\\AndroidStudioProjects\\JSONConverter\\app\\build\\outputs\\androidTest-results\\connected\\new(AVD) - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\test\\AndroidStudioProjects\\JSONConverter\\app\\build\\outputs\\androidTest-results\\connected\\new(AVD) - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\test\\AndroidStudioProjects\\JSONConverter\\app\\build\\outputs\\androidTest-results\\connected\\new(AVD) - 11\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\test\\AndroidStudioProjects\\JSONConverter\\app\\build\\outputs\\androidTest-results\\connected\\new(AVD) - 11\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

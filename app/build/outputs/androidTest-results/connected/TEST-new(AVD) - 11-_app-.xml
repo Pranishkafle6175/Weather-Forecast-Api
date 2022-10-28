@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.jsonconverter.ExampleInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="3.595" timestamp="2022-10-19T16:14:04" hostname="localhost">
+  <properties>
+    <property name="device" value="new(AVD) - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="useAppContext" classname="com.example.jsonconverter.ExampleInstrumentedTest" time="0.101" />
+</testsuite>
